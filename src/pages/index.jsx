@@ -110,11 +110,7 @@ const Index = () => (
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          You know the way you feel when you see a picture of two otters holding hands? That's how you're gonna feel
-          every day. My mother cried the day I was born because she knew she’d never be prettier than me. You should
-          make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The kids
-          want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that all
-          right?
+          I build awesome stuff with JavaScript - progressive web apps, single page applications, android and iOS apps, and experiment with shiny new things like Blockchain and AI. I am very passionate about JavaScript so I started <a href="bit.ly/JaipurJS" >JaipurJS - Jaipur's JavaScript community</a>, we organize regular meetups, workshops and bootcamps. <br/><br/> I also like to do UX, UI, and interaction design and organize events as part of my role as JaipurJS organizer and a AngelHack Ambassador.
         </AboutDesc>
       </About>
       <Contact offset={4}>
