@@ -106,7 +106,7 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="Ayush Rawal" />
           <AboutSub>
-          I build Awesome Web and Mobile Apps, Organize JaipurJS - Jaipur's JavaScript Community, am a AngelHack Ambassador and GitHub Campus Expert in Training.
+          I build Awesome Web and Mobile Apps and Organize JaipurJS - Jaipur's JavaScript Community
           </AboutSub>
         </AboutHero>
         <AboutDesc>
