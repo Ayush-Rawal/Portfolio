@@ -110,7 +110,7 @@ const Index = () => (
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          I build applications with JavaScript - progressive web apps, single page web applications, e-commerce web sites, APIs, android and iOS apps, and experiment with shiny new things like Blockchain and AI. I am very passionate about JavaScript so I started <a href="bit.ly/JaipurJS" >JaipurJS - Jaipur's JavaScript community</a>, we organize regular meetups, workshops and bootcamps. <br/><br/> I also like to do UX, UI, and interaction design and organize events as part of my role as JaipurJS organizer and a AngelHack Ambassador.
+          I build applications with JavaScript - progressive web apps, single page web applications, e-commerce web sites, APIs, android and iOS apps, and experiment with shiny new things like Blockchain and AI. I am very passionate about JavaScript so I started <a href="bit.ly/JaipurJS" >JaipurJS - Jaipur's JavaScript community</a>, we organize regular meetups, workshops and bootcamps. <br/><br/> I also like to do UX, UI, and interaction design and organize events as part of my role as JaipurJS organizer and a AngelHack Ambassador. I'm also an ACM member.
         </AboutDesc>
       </About>
       <Contact offset={4}>
