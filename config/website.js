@@ -17,7 +17,7 @@ module.exports = {
   userTwitter: '@AyushAco', // Twitter Username
   ogSiteName: 'Ayush Rawal', // Facebook Site Name
   ogLanguage: 'en_US', // Facebook Language
-  googleAnalyticsID: 'UA-47519312-5',
+  googleAnalyticsID: 'UA-140019710-3',
 
   // Manifest and Progress color
   themeColor: tailwind.colors.orange,
