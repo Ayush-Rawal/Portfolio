@@ -48,6 +48,7 @@ module.exports = {
             type: 'image/png',
           },
         ],
+        
       },
     },
     /* Must be placed at the end */
